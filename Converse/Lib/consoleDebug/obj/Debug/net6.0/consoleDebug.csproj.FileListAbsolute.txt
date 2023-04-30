@@ -1,0 +1,54 @@
+E:\первый курс\second semak\основы программирования\converse\Lib\consoleDebug\bin\Debug\net6.0\consoleDebug.exe
+E:\первый курс\second semak\основы программирования\converse\Lib\consoleDebug\bin\Debug\net6.0\consoleDebug.deps.json
+E:\первый курс\second semak\основы программирования\converse\Lib\consoleDebug\bin\Debug\net6.0\consoleDebug.runtimeconfig.json
+E:\первый курс\second semak\основы программирования\converse\Lib\consoleDebug\bin\Debug\net6.0\consoleDebug.dll
+E:\первый курс\second semak\основы программирования\converse\Lib\consoleDebug\bin\Debug\net6.0\consoleDebug.pdb
+E:\первый курс\second semak\основы программирования\converse\Lib\consoleDebug\obj\Debug\net6.0\consoleDebug.csproj.AssemblyReference.cache
+E:\первый курс\second semak\основы программирования\converse\Lib\consoleDebug\obj\Debug\net6.0\consoleDebug.GeneratedMSBuildEditorConfig.editorconfig
+E:\первый курс\second semak\основы программирования\converse\Lib\consoleDebug\obj\Debug\net6.0\consoleDebug.AssemblyInfoInputs.cache
+E:\первый курс\second semak\основы программирования\converse\Lib\consoleDebug\obj\Debug\net6.0\consoleDebug.AssemblyInfo.cs
+E:\первый курс\second semak\основы программирования\converse\Lib\consoleDebug\obj\Debug\net6.0\consoleDebug.csproj.CoreCompileInputs.cache
+E:\первый курс\second semak\основы программирования\converse\Lib\consoleDebug\obj\Debug\net6.0\consoleDebug.dll
+E:\первый курс\second semak\основы программирования\converse\Lib\consoleDebug\obj\Debug\net6.0\refint\consoleDebug.dll
+E:\первый курс\second semak\основы программирования\converse\Lib\consoleDebug\obj\Debug\net6.0\consoleDebug.pdb
+E:\первый курс\second semak\основы программирования\converse\Lib\consoleDebug\obj\Debug\net6.0\consoleDebug.genruntimeconfig.cache
+E:\первый курс\second semak\основы программирования\converse\Lib\consoleDebug\obj\Debug\net6.0\ref\consoleDebug.dll
+E:\первый курс\second semak\основы программирования\converse\Lib\consoleDebug\bin\Debug\net6.0\Lib.dll
+E:\первый курс\second semak\основы программирования\converse\Lib\consoleDebug\bin\Debug\net6.0\Lib.pdb
+E:\первый курс\second semak\основы программирования\converse\Lib\consoleDebug\obj\Debug\net6.0\consoleDebug.csproj.CopyComplete
+T:\petProj\converse\Lib\consoleDebug\bin\Debug\net6.0\consoleDebug.exe
+T:\petProj\converse\Lib\consoleDebug\bin\Debug\net6.0\consoleDebug.deps.json
+T:\petProj\converse\Lib\consoleDebug\bin\Debug\net6.0\consoleDebug.runtimeconfig.json
+T:\petProj\converse\Lib\consoleDebug\bin\Debug\net6.0\consoleDebug.dll
+T:\petProj\converse\Lib\consoleDebug\bin\Debug\net6.0\consoleDebug.pdb
+T:\petProj\converse\Lib\consoleDebug\bin\Debug\net6.0\Lib.dll
+T:\petProj\converse\Lib\consoleDebug\bin\Debug\net6.0\Lib.pdb
+T:\petProj\converse\Lib\consoleDebug\obj\Debug\net6.0\consoleDebug.csproj.AssemblyReference.cache
+T:\petProj\converse\Lib\consoleDebug\obj\Debug\net6.0\consoleDebug.GeneratedMSBuildEditorConfig.editorconfig
+T:\petProj\converse\Lib\consoleDebug\obj\Debug\net6.0\consoleDebug.AssemblyInfoInputs.cache
+T:\petProj\converse\Lib\consoleDebug\obj\Debug\net6.0\consoleDebug.AssemblyInfo.cs
+T:\petProj\converse\Lib\consoleDebug\obj\Debug\net6.0\consoleDebug.csproj.CoreCompileInputs.cache
+T:\petProj\converse\Lib\consoleDebug\obj\Debug\net6.0\consoleDebug.csproj.CopyComplete
+T:\petProj\converse\Lib\consoleDebug\obj\Debug\net6.0\consoleDebug.dll
+T:\petProj\converse\Lib\consoleDebug\obj\Debug\net6.0\refint\consoleDebug.dll
+T:\petProj\converse\Lib\consoleDebug\obj\Debug\net6.0\consoleDebug.pdb
+T:\petProj\converse\Lib\consoleDebug\obj\Debug\net6.0\consoleDebug.genruntimeconfig.cache
+T:\petProj\converse\Lib\consoleDebug\obj\Debug\net6.0\ref\consoleDebug.dll
+C:\Users\MB_Markelov\Desktop\Bilicproject\converse\Lib\consoleDebug\bin\Debug\net6.0\consoleDebug.exe
+C:\Users\MB_Markelov\Desktop\Bilicproject\converse\Lib\consoleDebug\bin\Debug\net6.0\consoleDebug.deps.json
+C:\Users\MB_Markelov\Desktop\Bilicproject\converse\Lib\consoleDebug\bin\Debug\net6.0\consoleDebug.runtimeconfig.json
+C:\Users\MB_Markelov\Desktop\Bilicproject\converse\Lib\consoleDebug\bin\Debug\net6.0\consoleDebug.dll
+C:\Users\MB_Markelov\Desktop\Bilicproject\converse\Lib\consoleDebug\bin\Debug\net6.0\consoleDebug.pdb
+C:\Users\MB_Markelov\Desktop\Bilicproject\converse\Lib\consoleDebug\bin\Debug\net6.0\Lib.dll
+C:\Users\MB_Markelov\Desktop\Bilicproject\converse\Lib\consoleDebug\bin\Debug\net6.0\Lib.pdb
+C:\Users\MB_Markelov\Desktop\Bilicproject\converse\Lib\consoleDebug\obj\Debug\net6.0\consoleDebug.csproj.AssemblyReference.cache
+C:\Users\MB_Markelov\Desktop\Bilicproject\converse\Lib\consoleDebug\obj\Debug\net6.0\consoleDebug.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MB_Markelov\Desktop\Bilicproject\converse\Lib\consoleDebug\obj\Debug\net6.0\consoleDebug.AssemblyInfoInputs.cache
+C:\Users\MB_Markelov\Desktop\Bilicproject\converse\Lib\consoleDebug\obj\Debug\net6.0\consoleDebug.AssemblyInfo.cs
+C:\Users\MB_Markelov\Desktop\Bilicproject\converse\Lib\consoleDebug\obj\Debug\net6.0\consoleDebug.csproj.CoreCompileInputs.cache
+C:\Users\MB_Markelov\Desktop\Bilicproject\converse\Lib\consoleDebug\obj\Debug\net6.0\consoleDebug.csproj.CopyComplete
+C:\Users\MB_Markelov\Desktop\Bilicproject\converse\Lib\consoleDebug\obj\Debug\net6.0\consoleDebug.dll
+C:\Users\MB_Markelov\Desktop\Bilicproject\converse\Lib\consoleDebug\obj\Debug\net6.0\refint\consoleDebug.dll
+C:\Users\MB_Markelov\Desktop\Bilicproject\converse\Lib\consoleDebug\obj\Debug\net6.0\consoleDebug.pdb
+C:\Users\MB_Markelov\Desktop\Bilicproject\converse\Lib\consoleDebug\obj\Debug\net6.0\consoleDebug.genruntimeconfig.cache
+C:\Users\MB_Markelov\Desktop\Bilicproject\converse\Lib\consoleDebug\obj\Debug\net6.0\ref\consoleDebug.dll

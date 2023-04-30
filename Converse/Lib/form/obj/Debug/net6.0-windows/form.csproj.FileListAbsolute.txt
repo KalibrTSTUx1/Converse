@@ -1,0 +1,106 @@
+T:\petProj\converse\Lib\form\bin\Debug\net6.0-windows\form.exe
+T:\petProj\converse\Lib\form\bin\Debug\net6.0-windows\form.deps.json
+T:\petProj\converse\Lib\form\bin\Debug\net6.0-windows\form.runtimeconfig.json
+T:\petProj\converse\Lib\form\bin\Debug\net6.0-windows\form.dll
+T:\petProj\converse\Lib\form\bin\Debug\net6.0-windows\form.pdb
+T:\petProj\converse\Lib\form\bin\Debug\net6.0-windows\Lib.dll
+T:\petProj\converse\Lib\form\bin\Debug\net6.0-windows\Lib.pdb
+T:\petProj\converse\Lib\form\obj\Debug\net6.0-windows\form.csproj.AssemblyReference.cache
+T:\petProj\converse\Lib\form\obj\Debug\net6.0-windows\form.Form1.resources
+T:\petProj\converse\Lib\form\obj\Debug\net6.0-windows\form.csproj.GenerateResource.cache
+T:\petProj\converse\Lib\form\obj\Debug\net6.0-windows\form.GeneratedMSBuildEditorConfig.editorconfig
+T:\petProj\converse\Lib\form\obj\Debug\net6.0-windows\form.AssemblyInfoInputs.cache
+T:\petProj\converse\Lib\form\obj\Debug\net6.0-windows\form.AssemblyInfo.cs
+T:\petProj\converse\Lib\form\obj\Debug\net6.0-windows\form.csproj.CoreCompileInputs.cache
+T:\petProj\converse\Lib\form\obj\Debug\net6.0-windows\form.csproj.CopyComplete
+T:\petProj\converse\Lib\form\obj\Debug\net6.0-windows\form.dll
+T:\petProj\converse\Lib\form\obj\Debug\net6.0-windows\refint\form.dll
+T:\petProj\converse\Lib\form\obj\Debug\net6.0-windows\form.pdb
+T:\petProj\converse\Lib\form\obj\Debug\net6.0-windows\form.genruntimeconfig.cache
+T:\petProj\converse\Lib\form\obj\Debug\net6.0-windows\ref\form.dll
+C:\Users\MB_Markelov\Desktop\Bilicproject\converse\Lib\form\bin\Debug\net6.0-windows\form.exe
+C:\Users\MB_Markelov\Desktop\Bilicproject\converse\Lib\form\bin\Debug\net6.0-windows\form.deps.json
+C:\Users\MB_Markelov\Desktop\Bilicproject\converse\Lib\form\bin\Debug\net6.0-windows\form.runtimeconfig.json
+C:\Users\MB_Markelov\Desktop\Bilicproject\converse\Lib\form\bin\Debug\net6.0-windows\form.dll
+C:\Users\MB_Markelov\Desktop\Bilicproject\converse\Lib\form\bin\Debug\net6.0-windows\form.pdb
+C:\Users\MB_Markelov\Desktop\Bilicproject\converse\Lib\form\bin\Debug\net6.0-windows\Lib.dll
+C:\Users\MB_Markelov\Desktop\Bilicproject\converse\Lib\form\bin\Debug\net6.0-windows\Lib.pdb
+C:\Users\MB_Markelov\Desktop\Bilicproject\converse\Lib\form\obj\Debug\net6.0-windows\form.csproj.AssemblyReference.cache
+C:\Users\MB_Markelov\Desktop\Bilicproject\converse\Lib\form\obj\Debug\net6.0-windows\form.Form1.resources
+C:\Users\MB_Markelov\Desktop\Bilicproject\converse\Lib\form\obj\Debug\net6.0-windows\form.csproj.GenerateResource.cache
+C:\Users\MB_Markelov\Desktop\Bilicproject\converse\Lib\form\obj\Debug\net6.0-windows\form.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MB_Markelov\Desktop\Bilicproject\converse\Lib\form\obj\Debug\net6.0-windows\form.AssemblyInfoInputs.cache
+C:\Users\MB_Markelov\Desktop\Bilicproject\converse\Lib\form\obj\Debug\net6.0-windows\form.AssemblyInfo.cs
+C:\Users\MB_Markelov\Desktop\Bilicproject\converse\Lib\form\obj\Debug\net6.0-windows\form.csproj.CoreCompileInputs.cache
+C:\Users\MB_Markelov\Desktop\Bilicproject\converse\Lib\form\obj\Debug\net6.0-windows\form.csproj.CopyComplete
+C:\Users\MB_Markelov\Desktop\Bilicproject\converse\Lib\form\obj\Debug\net6.0-windows\form.dll
+C:\Users\MB_Markelov\Desktop\Bilicproject\converse\Lib\form\obj\Debug\net6.0-windows\refint\form.dll
+C:\Users\MB_Markelov\Desktop\Bilicproject\converse\Lib\form\obj\Debug\net6.0-windows\form.pdb
+C:\Users\MB_Markelov\Desktop\Bilicproject\converse\Lib\form\obj\Debug\net6.0-windows\form.genruntimeconfig.cache
+C:\Users\MB_Markelov\Desktop\Bilicproject\converse\Lib\form\obj\Debug\net6.0-windows\ref\form.dll
+E:\первый курс\second semak\основы программирования\converse\Lib\form\bin\Debug\net6.0-windows\form.exe
+E:\первый курс\second semak\основы программирования\converse\Lib\form\bin\Debug\net6.0-windows\form.deps.json
+E:\первый курс\second semak\основы программирования\converse\Lib\form\bin\Debug\net6.0-windows\form.runtimeconfig.json
+E:\первый курс\second semak\основы программирования\converse\Lib\form\bin\Debug\net6.0-windows\form.dll
+E:\первый курс\second semak\основы программирования\converse\Lib\form\bin\Debug\net6.0-windows\form.pdb
+E:\первый курс\second semak\основы программирования\converse\Lib\form\bin\Debug\net6.0-windows\Lib.dll
+E:\первый курс\second semak\основы программирования\converse\Lib\form\bin\Debug\net6.0-windows\Lib.pdb
+E:\первый курс\second semak\основы программирования\converse\Lib\form\obj\Debug\net6.0-windows\form.csproj.AssemblyReference.cache
+E:\первый курс\second semak\основы программирования\converse\Lib\form\obj\Debug\net6.0-windows\form.csproj.GenerateResource.cache
+E:\первый курс\second semak\основы программирования\converse\Lib\form\obj\Debug\net6.0-windows\form.GeneratedMSBuildEditorConfig.editorconfig
+E:\первый курс\second semak\основы программирования\converse\Lib\form\obj\Debug\net6.0-windows\form.AssemblyInfoInputs.cache
+E:\первый курс\second semak\основы программирования\converse\Lib\form\obj\Debug\net6.0-windows\form.AssemblyInfo.cs
+E:\первый курс\second semak\основы программирования\converse\Lib\form\obj\Debug\net6.0-windows\form.csproj.CoreCompileInputs.cache
+E:\первый курс\second semak\основы программирования\converse\Lib\form\obj\Debug\net6.0-windows\form.csproj.CopyComplete
+E:\первый курс\second semak\основы программирования\converse\Lib\form\obj\Debug\net6.0-windows\form.dll
+E:\первый курс\second semak\основы программирования\converse\Lib\form\obj\Debug\net6.0-windows\refint\form.dll
+E:\первый курс\second semak\основы программирования\converse\Lib\form\obj\Debug\net6.0-windows\form.pdb
+E:\первый курс\second semak\основы программирования\converse\Lib\form\obj\Debug\net6.0-windows\form.genruntimeconfig.cache
+E:\первый курс\second semak\основы программирования\converse\Lib\form\obj\Debug\net6.0-windows\ref\form.dll
+C:\Users\belsk\Desktop\converse\Lib\form\bin\Debug\net6.0-windows\form.exe
+C:\Users\belsk\Desktop\converse\Lib\form\bin\Debug\net6.0-windows\form.deps.json
+C:\Users\belsk\Desktop\converse\Lib\form\bin\Debug\net6.0-windows\form.runtimeconfig.json
+C:\Users\belsk\Desktop\converse\Lib\form\bin\Debug\net6.0-windows\form.dll
+C:\Users\belsk\Desktop\converse\Lib\form\bin\Debug\net6.0-windows\form.pdb
+C:\Users\belsk\Desktop\converse\Lib\form\bin\Debug\net6.0-windows\Lib.dll
+C:\Users\belsk\Desktop\converse\Lib\form\bin\Debug\net6.0-windows\Lib.pdb
+C:\Users\belsk\Desktop\converse\Lib\form\obj\Debug\net6.0-windows\form.csproj.AssemblyReference.cache
+C:\Users\belsk\Desktop\converse\Lib\form\obj\Debug\net6.0-windows\form.Form1.resources
+C:\Users\belsk\Desktop\converse\Lib\form\obj\Debug\net6.0-windows\form.csproj.GenerateResource.cache
+C:\Users\belsk\Desktop\converse\Lib\form\obj\Debug\net6.0-windows\form.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\belsk\Desktop\converse\Lib\form\obj\Debug\net6.0-windows\form.AssemblyInfoInputs.cache
+C:\Users\belsk\Desktop\converse\Lib\form\obj\Debug\net6.0-windows\form.AssemblyInfo.cs
+C:\Users\belsk\Desktop\converse\Lib\form\obj\Debug\net6.0-windows\form.csproj.CoreCompileInputs.cache
+C:\Users\belsk\Desktop\converse\Lib\form\obj\Debug\net6.0-windows\form.csproj.CopyComplete
+C:\Users\belsk\Desktop\converse\Lib\form\obj\Debug\net6.0-windows\form.dll
+C:\Users\belsk\Desktop\converse\Lib\form\obj\Debug\net6.0-windows\refint\form.dll
+C:\Users\belsk\Desktop\converse\Lib\form\obj\Debug\net6.0-windows\form.pdb
+C:\Users\belsk\Desktop\converse\Lib\form\obj\Debug\net6.0-windows\form.genruntimeconfig.cache
+C:\Users\belsk\Desktop\converse\Lib\form\obj\Debug\net6.0-windows\ref\form.dll
+C:\Users\UserName\Desktop\converse\Lib\form\bin\Debug\net6.0-windows\form.exe
+C:\Users\UserName\Desktop\converse\Lib\form\bin\Debug\net6.0-windows\form.deps.json
+C:\Users\UserName\Desktop\converse\Lib\form\bin\Debug\net6.0-windows\form.runtimeconfig.json
+C:\Users\UserName\Desktop\converse\Lib\form\bin\Debug\net6.0-windows\form.dll
+C:\Users\UserName\Desktop\converse\Lib\form\bin\Debug\net6.0-windows\form.pdb
+C:\Users\UserName\Desktop\converse\Lib\form\bin\Debug\net6.0-windows\Lib.dll
+C:\Users\UserName\Desktop\converse\Lib\form\bin\Debug\net6.0-windows\Lib.pdb
+C:\Users\UserName\Desktop\converse\Lib\form\obj\Debug\net6.0-windows\form.csproj.AssemblyReference.cache
+C:\Users\UserName\Desktop\converse\Lib\form\obj\Debug\net6.0-windows\form.csproj.GenerateResource.cache
+C:\Users\UserName\Desktop\converse\Lib\form\obj\Debug\net6.0-windows\form.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\UserName\Desktop\converse\Lib\form\obj\Debug\net6.0-windows\form.AssemblyInfoInputs.cache
+C:\Users\UserName\Desktop\converse\Lib\form\obj\Debug\net6.0-windows\form.AssemblyInfo.cs
+C:\Users\UserName\Desktop\converse\Lib\form\obj\Debug\net6.0-windows\form.csproj.CoreCompileInputs.cache
+C:\Users\UserName\Desktop\converse\Lib\form\obj\Debug\net6.0-windows\form.csproj.CopyComplete
+C:\Users\UserName\Desktop\converse\Lib\form\obj\Debug\net6.0-windows\form.dll
+C:\Users\UserName\Desktop\converse\Lib\form\obj\Debug\net6.0-windows\refint\form.dll
+C:\Users\UserName\Desktop\converse\Lib\form\obj\Debug\net6.0-windows\form.pdb
+C:\Users\UserName\Desktop\converse\Lib\form\obj\Debug\net6.0-windows\form.genruntimeconfig.cache
+C:\Users\UserName\Desktop\converse\Lib\form\obj\Debug\net6.0-windows\ref\form.dll
+C:\Users\UserName\Desktop\converse\Lib\form\obj\Debug\net6.0-windows\form.Convert.resources
+E:\первый курс\second semak\основы программирования\converse\Lib\form\obj\Debug\net6.0-windows\form.Convert.resources
+E:\первый курс\second semak\основы программирования\converse\Lib\form\obj\Debug\net6.0-windows\form.Properties.Resources.resources
+E:\первый курс\second semak\основы программирования\converse\Lib\form\bin\Debug\net6.0-windows\HlpForm.deps.json
+E:\первый курс\second semak\основы программирования\converse\Lib\form\bin\Debug\net6.0-windows\HlpForm.runtimeconfig.json
+E:\первый курс\second semak\основы программирования\converse\Lib\form\bin\Debug\net6.0-windows\HlpForm.exe
+E:\первый курс\second semak\основы программирования\converse\Lib\form\bin\Debug\net6.0-windows\HlpForm.dll
+E:\первый курс\second semak\основы программирования\converse\Lib\form\bin\Debug\net6.0-windows\HlpForm.pdb

@@ -1,0 +1,89 @@
+﻿<root>
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="textBox1.Text" xml:space="preserve">
+    <value>Конвертер систем счисления работает следующим образом:
+Он конвертирует заданное число из одной системы счисления в другую(заданную пользователем).
+Как использовать программу?
+1) Окно входных данных:
+В окне под надписью "Входные данные:" пользователю необходимо ввести число, которое он
+желает перевести в другую систему счисления. Цифры числа не должны превышать исходную сис-
+тему счисления, не должны вводиться символы помимо английского алфавита, цифр, точки и
+запятой. 
+2) Поля ввода системы счисления:
+Данные поля служат как указатели, в какой системе счисления находится исходное число, и в
+какую систему счисления пользователь желает перевести это самое число. Система счисления
+должна находиться в пределах (2&lt;=x&lt;=36) и должна быть целым числом. Если галочка около 
+поля "Ручной ввод" не стоит,то пользователь должен выбрать систему счисления из списка
+предложенных ему в соседнем окошке. Если же галочка поставлена, то пользователю предлагается
+вписать собственную систему счисления.
+3) Пользовательский ввод количества знаков после запятой:
+Данная опция предлагает пользователю ограничить количество выводимых знаков после запятой.
+При поствленной галочке открывается окно "N:", в котором можно задать необходимое количество
+вывода знаков после запятой. Количество знаков рекомендуется вводить в пределах(0&lt;=x&lt;=15), 
+так как при N &gt; 15 будет накапливаться погрешность и "N" должно быть целым числом. Если же 
+галочка не поставлено то вывод по умолчанию будет с 15 знаками после запятой(если число имеет 
+такую длину).
+4) Конвертировать:
+При нажатии на данную кнопку происходит конвертирование введенного числа. Кнопка работает
+только при заполненных полях: "Входные данные","Исходная система счисления","Желаемая система
+счисления"
+</value>
+  </data>
+</root>

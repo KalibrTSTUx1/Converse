@@ -1,0 +1,6 @@
+C:\Users\MB_Markelov\Desktop\converse\Lib\WindowsFormsControlLibrary1\bin\Debug\WindowsFormsControlLibrary1.dll
+C:\Users\MB_Markelov\Desktop\converse\Lib\WindowsFormsControlLibrary1\bin\Debug\WindowsFormsControlLibrary1.pdb
+C:\Users\MB_Markelov\Desktop\converse\Lib\WindowsFormsControlLibrary1\obj\Debug\Interface.csproj.AssemblyReference.cache
+C:\Users\MB_Markelov\Desktop\converse\Lib\WindowsFormsControlLibrary1\obj\Debug\Interface.csproj.CoreCompileInputs.cache
+C:\Users\MB_Markelov\Desktop\converse\Lib\WindowsFormsControlLibrary1\obj\Debug\WindowsFormsControlLibrary1.dll
+C:\Users\MB_Markelov\Desktop\converse\Lib\WindowsFormsControlLibrary1\obj\Debug\WindowsFormsControlLibrary1.pdb

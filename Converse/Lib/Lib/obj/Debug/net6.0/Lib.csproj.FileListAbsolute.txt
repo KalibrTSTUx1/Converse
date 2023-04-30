@@ -1,0 +1,60 @@
+E:\первый курс\second semak\основы программирования\converse\Lib\Lib\bin\Debug\net6.0\Lib.deps.json
+E:\первый курс\second semak\основы программирования\converse\Lib\Lib\bin\Debug\net6.0\Lib.dll
+E:\первый курс\second semak\основы программирования\converse\Lib\Lib\bin\Debug\net6.0\Lib.pdb
+E:\первый курс\second semak\основы программирования\converse\Lib\Lib\obj\Debug\net6.0\Lib.csproj.AssemblyReference.cache
+E:\первый курс\second semak\основы программирования\converse\Lib\Lib\obj\Debug\net6.0\Lib.GeneratedMSBuildEditorConfig.editorconfig
+E:\первый курс\second semak\основы программирования\converse\Lib\Lib\obj\Debug\net6.0\Lib.AssemblyInfoInputs.cache
+E:\первый курс\second semak\основы программирования\converse\Lib\Lib\obj\Debug\net6.0\Lib.AssemblyInfo.cs
+E:\первый курс\second semak\основы программирования\converse\Lib\Lib\obj\Debug\net6.0\Lib.csproj.CoreCompileInputs.cache
+E:\первый курс\second semak\основы программирования\converse\Lib\Lib\obj\Debug\net6.0\Lib.dll
+E:\первый курс\second semak\основы программирования\converse\Lib\Lib\obj\Debug\net6.0\refint\Lib.dll
+E:\первый курс\second semak\основы программирования\converse\Lib\Lib\obj\Debug\net6.0\Lib.pdb
+E:\первый курс\second semak\основы программирования\converse\Lib\Lib\obj\Debug\net6.0\ref\Lib.dll
+T:\petProj\converse\Lib\Lib\bin\Debug\net6.0\Lib.deps.json
+T:\petProj\converse\Lib\Lib\bin\Debug\net6.0\Lib.dll
+T:\petProj\converse\Lib\Lib\bin\Debug\net6.0\Lib.pdb
+T:\petProj\converse\Lib\Lib\obj\Debug\net6.0\Lib.csproj.AssemblyReference.cache
+T:\petProj\converse\Lib\Lib\obj\Debug\net6.0\Lib.GeneratedMSBuildEditorConfig.editorconfig
+T:\petProj\converse\Lib\Lib\obj\Debug\net6.0\Lib.AssemblyInfoInputs.cache
+T:\petProj\converse\Lib\Lib\obj\Debug\net6.0\Lib.AssemblyInfo.cs
+T:\petProj\converse\Lib\Lib\obj\Debug\net6.0\Lib.csproj.CoreCompileInputs.cache
+T:\petProj\converse\Lib\Lib\obj\Debug\net6.0\Lib.dll
+T:\petProj\converse\Lib\Lib\obj\Debug\net6.0\refint\Lib.dll
+T:\petProj\converse\Lib\Lib\obj\Debug\net6.0\Lib.pdb
+T:\petProj\converse\Lib\Lib\obj\Debug\net6.0\ref\Lib.dll
+C:\Users\MB_Markelov\Desktop\Bilicproject\converse\Lib\Lib\bin\Debug\net6.0\Lib.deps.json
+C:\Users\MB_Markelov\Desktop\Bilicproject\converse\Lib\Lib\bin\Debug\net6.0\Lib.dll
+C:\Users\MB_Markelov\Desktop\Bilicproject\converse\Lib\Lib\bin\Debug\net6.0\Lib.pdb
+C:\Users\MB_Markelov\Desktop\Bilicproject\converse\Lib\Lib\obj\Debug\net6.0\Lib.csproj.AssemblyReference.cache
+C:\Users\MB_Markelov\Desktop\Bilicproject\converse\Lib\Lib\obj\Debug\net6.0\Lib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MB_Markelov\Desktop\Bilicproject\converse\Lib\Lib\obj\Debug\net6.0\Lib.AssemblyInfoInputs.cache
+C:\Users\MB_Markelov\Desktop\Bilicproject\converse\Lib\Lib\obj\Debug\net6.0\Lib.AssemblyInfo.cs
+C:\Users\MB_Markelov\Desktop\Bilicproject\converse\Lib\Lib\obj\Debug\net6.0\Lib.csproj.CoreCompileInputs.cache
+C:\Users\MB_Markelov\Desktop\Bilicproject\converse\Lib\Lib\obj\Debug\net6.0\Lib.dll
+C:\Users\MB_Markelov\Desktop\Bilicproject\converse\Lib\Lib\obj\Debug\net6.0\refint\Lib.dll
+C:\Users\MB_Markelov\Desktop\Bilicproject\converse\Lib\Lib\obj\Debug\net6.0\Lib.pdb
+C:\Users\MB_Markelov\Desktop\Bilicproject\converse\Lib\Lib\obj\Debug\net6.0\ref\Lib.dll
+C:\Users\belsk\Desktop\converse\Lib\Lib\bin\Debug\net6.0\Lib.deps.json
+C:\Users\belsk\Desktop\converse\Lib\Lib\bin\Debug\net6.0\Lib.dll
+C:\Users\belsk\Desktop\converse\Lib\Lib\bin\Debug\net6.0\Lib.pdb
+C:\Users\belsk\Desktop\converse\Lib\Lib\obj\Debug\net6.0\Lib.csproj.AssemblyReference.cache
+C:\Users\belsk\Desktop\converse\Lib\Lib\obj\Debug\net6.0\Lib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\belsk\Desktop\converse\Lib\Lib\obj\Debug\net6.0\Lib.AssemblyInfoInputs.cache
+C:\Users\belsk\Desktop\converse\Lib\Lib\obj\Debug\net6.0\Lib.AssemblyInfo.cs
+C:\Users\belsk\Desktop\converse\Lib\Lib\obj\Debug\net6.0\Lib.csproj.CoreCompileInputs.cache
+C:\Users\belsk\Desktop\converse\Lib\Lib\obj\Debug\net6.0\Lib.dll
+C:\Users\belsk\Desktop\converse\Lib\Lib\obj\Debug\net6.0\refint\Lib.dll
+C:\Users\belsk\Desktop\converse\Lib\Lib\obj\Debug\net6.0\Lib.pdb
+C:\Users\belsk\Desktop\converse\Lib\Lib\obj\Debug\net6.0\ref\Lib.dll
+C:\Users\UserName\Desktop\converse\Lib\Lib\bin\Debug\net6.0\Lib.deps.json
+C:\Users\UserName\Desktop\converse\Lib\Lib\bin\Debug\net6.0\Lib.dll
+C:\Users\UserName\Desktop\converse\Lib\Lib\bin\Debug\net6.0\Lib.pdb
+C:\Users\UserName\Desktop\converse\Lib\Lib\obj\Debug\net6.0\Lib.csproj.AssemblyReference.cache
+C:\Users\UserName\Desktop\converse\Lib\Lib\obj\Debug\net6.0\Lib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\UserName\Desktop\converse\Lib\Lib\obj\Debug\net6.0\Lib.AssemblyInfoInputs.cache
+C:\Users\UserName\Desktop\converse\Lib\Lib\obj\Debug\net6.0\Lib.AssemblyInfo.cs
+C:\Users\UserName\Desktop\converse\Lib\Lib\obj\Debug\net6.0\Lib.csproj.CoreCompileInputs.cache
+C:\Users\UserName\Desktop\converse\Lib\Lib\obj\Debug\net6.0\Lib.dll
+C:\Users\UserName\Desktop\converse\Lib\Lib\obj\Debug\net6.0\refint\Lib.dll
+C:\Users\UserName\Desktop\converse\Lib\Lib\obj\Debug\net6.0\Lib.pdb
+C:\Users\UserName\Desktop\converse\Lib\Lib\obj\Debug\net6.0\ref\Lib.dll
